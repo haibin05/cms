@@ -4,11 +4,11 @@
   "version": "12.0.0",
   "main": "release.js",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/totaljs/cms"
+    "type": "git",
+    "url": "https://github.com/totaljs/cms"
   },
   "dependencies": {
-    "total.js": "latest"
+    "total.js": "^3.2.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,5 @@
     "cms"
   ],
   "author": "Peter Širka",
-  "license":"MIT"
+  "license": "MIT"
 }
